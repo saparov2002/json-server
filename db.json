@@ -1,0 +1,11 @@
+{
+  "fruits": [
+    {
+      "id": "80f1",
+      "name": "gd",
+      "color": "fb",
+      "image": "blob:http://localhost:5173/8c8f51ba-fd4a-4785-8f23-67673cb69db4",
+      "price": "23"
+    }
+  ]
+}
